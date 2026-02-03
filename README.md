@@ -62,6 +62,6 @@ This project showcases enterprise-level AI/ML implementation skills essential fo
 ## OUTPUT
 
 ### AI Recommendation System Execution:
-<img width="437" height="882" alt="Screenshot 2026-01-31 162135" src="https://github.com/user-attachments/assets/94fb0b5a-5f56-462c-8bd4-abcd774314cd" />
-<img width="600" height="750" alt="Screenshot 2026-01-31 162155" src="https://github.com/user-attachments/assets/494f6de8-7821-4fce-9384-5bec688b37eb" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-03 185922" src="https://github.com/user-attachments/assets/99c220bf-4253-41f8-87f8-61c889b4cac3" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-03 185934" src="https://github.com/user-attachments/assets/ce0fe214-dd0f-4f38-8a01-fbc3fbb49cf1" />
 
